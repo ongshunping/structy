@@ -2,11 +2,11 @@
 Practicing data structures and algorithms with [Structy](https://www.structy.net/) using Python. 
 
 ## A. Introduction 
-000. hey programmer 
-001. max-value 
-002. is prime 
+000. [hey programmer](https://github.com/ongshunping/structy/blob/main/hey_programmer.py)
+001. [max-value](https://github.com/ongshunping/structy/blob/main/max_value.py)
+002. [is prime](https://github.com/ongshunping/structy/blob/main/is_prime.py) 
 ## B. Array and String 
-003. uncompress
+003. [uncompress](https://github.com/ongshunping/structy/blob/main/uncompress.py)
 004. compress
 005. anagrams 
 006. most frequent char 
