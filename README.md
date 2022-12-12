@@ -7,13 +7,13 @@ Practicing data structures and algorithms with [Structy](https://www.structy.net
 002. [is prime](https://github.com/ongshunping/structy/blob/main/is_prime.py) 
 ## B. Array and String 
 003. [uncompress](https://github.com/ongshunping/structy/blob/main/uncompress.py)
-004. compress
-005. anagrams 
-006. most frequent char 
-007. pair sum
-008. pair product 
-009. intersection 
-010. five sort
+004. [compress](https://github.com/ongshunping/structy/blob/main/compress.py)
+005. [anagrams](https://github.com/ongshunping/structy/blob/main/anagrams.py) 
+006. [most frequent char](https://github.com/ongshunping/structy/blob/main/most_freq_char.py) 
+007. [pair sum](https://github.com/ongshunping/structy/blob/main/pair_sum.py)
+008. [pair product](https://github.com/ongshunping/structy/blob/main/pair_product.py) 
+009. [intersection](https://github.com/ongshunping/structy/blob/main/intersection.py) 
+010. [five sort](https://github.com/ongshunping/structy/blob/main/five_sort.py)
 ## C. Linked List 
 011. linked list values 
 012. sum list
