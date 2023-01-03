@@ -15,19 +15,19 @@ Practicing data structures and algorithms with [Structy](https://www.structy.net
 009. [intersection](https://github.com/ongshunping/structy/blob/main/intersection.py) 
 010. [five sort](https://github.com/ongshunping/structy/blob/main/five_sort.py)
 ## C. Linked List 
-011. linked list values 
-012. sum list
-013. linked list find 
-014. get node value
-015. reverse list 
-016. zipper lists 
-017. merge lists 
-018. is univalue list
-019. longest streak 
-020. remove node 
-021. insert node 
-022. create linked list 
-023. add lists 
+011. [linked list values](https://github.com/ongshunping/structy/blob/main/linked_list_values.py) 
+012. [sum list](https://github.com/ongshunping/structy/blob/main/sum_list.py)
+013. [linked list find](https://github.com/ongshunping/structy/blob/main/linked_list_find.py) 
+014. [get node value](https://github.com/ongshunping/structy/blob/main/get_node_value.py)
+015. [reverse list](https://github.com/ongshunping/structy/blob/main/reverse_list.py)
+016. [zipper lists](https://github.com/ongshunping/structy/blob/main/zipper_lists.py) 
+017. [merge lists](https://github.com/ongshunping/structy/blob/main/merge_lists.py) 
+018. [is univalue list](https://github.com/ongshunping/structy/blob/main/is_univalue_list.py)
+019. [longest streak](https://github.com/ongshunping/structy/blob/main/longest_streak.py) 
+020. [remove node](https://github.com/ongshunping/structy/blob/main/remove_node.py) 
+021. [insert node](https://github.com/ongshunping/structy/blob/main/insert_node.py) 
+022. [create linked list](https://github.com/ongshunping/structy/blob/main/create_linked_list.py) 
+023. [add lists](https://github.com/ongshunping/structy/blob/main/add_lists.py) 
 ## D. Binary Tree 
 024. depth first values 
 025. breadth first values 
